@@ -4,8 +4,15 @@
         <description><![CDATA[Edward Lui Films]]></description>
         <link>https://thegrid.ai/edward-lui-films/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 15:26:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Dec 2015 15:30:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/edward-lui-films/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Social Media]]></title>
+            <description><![CDATA[<article><h1>Social Media</h1><p>Contact me on social media.</p></article>]]></description>
+            <link>https://thegrid.ai/edward-lui-films/social-media/index.html</link>
+            <guid isPermaLink="false">9f86906d-945c-474c-abd6-6cd64922cf7f</guid>
+            <pubDate>Sun, 20 Dec 2015 15:29:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Me]]></title>
             <description><![CDATA[<article><h1>Me</h1><p>Me in action.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/521b3ac4db43daf47d4ff91acccf22f3f619cf59.jpg"></article>]]></description>
